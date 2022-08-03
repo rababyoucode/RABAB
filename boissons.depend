@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659534596 source:c:\users\pc\desktop\boisson\boissons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
